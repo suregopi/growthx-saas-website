@@ -1,1 +1,1 @@
-A modern, fully responsive SaaS website inspired by industry-standard platforms like HubSpot. This project includes a professional landing page, interactive pricing section, and clean UI/UX design, built using HTML, CSS, and WordPress (Elementor).
+Modern responsive SaaS website with landing page and pricing section inspired by HubSpot.
